@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning python、js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 dddshuo@163.com
 
 <!---
 vincentzz0/vincentzz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
