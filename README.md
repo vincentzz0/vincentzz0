@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincent
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ...
 - 📫 dddshuo@163.com
 
 <!---
